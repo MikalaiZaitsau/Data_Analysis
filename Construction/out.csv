@@ -1,0 +1,1029 @@
+,province,area_zone,classes,occupation,wage_rate_per_hour
+2,Alberta ,Calgary Zone,,Electricians,30.86
+3,Alberta ,Calgary Zone,,Plumbers,31.98
+4,Alberta ,Calgary Zone,,Sprinkler System Installers,34.92
+5,Alberta ,Calgary Zone,,"Pipefitters, Steamfitters",27.82
+6,Alberta ,Calgary Zone,,Sheet Metal Workers,31.04
+7,Alberta ,Calgary Zone,,Ironworkers (except reinforcing ironworkers (rebar/rodman)),26.84
+8,Alberta ,Calgary Zone,,Reinforcing Ironworkers (Rebar/Rodman),25.74
+9,Alberta ,Calgary Zone,,Metal Building System Erectors,24.12
+10,Alberta ,Calgary Zone,,Carpenters,26.87
+11,Alberta ,Calgary Zone,,Bricklayers (except refractory bricklayers),31.58
+12,Alberta ,Calgary Zone,,Concrete Finishers,23.88
+13,Alberta ,Calgary Zone,,"Tilesetters (including terrazo, marble setters)",25.96
+14,Alberta ,Calgary Zone,,Plasterers and Drywall Tapers,26.5
+15,Alberta ,Calgary Zone,,"Drywall Installers, Finishers and Lathers",24.87
+16,Alberta ,Calgary Zone,,Interior System Mechanics (including steel stud),27.48
+17,Alberta ,Calgary Zone,,Roofers,23.29
+18,Alberta ,Calgary Zone,,Glaziers,27.14
+19,Alberta ,Calgary Zone,,Insulators,22.54
+20,Alberta ,Calgary Zone,,Painters,20.77
+21,Alberta ,Calgary Zone,,Construction Millwrights,30.49
+22,Alberta ,Calgary Zone,,Heavy-Duty Equipment Mechanics,28.57
+23,Alberta ,Calgary Zone,,Refrigeration and Air Conditioning Mechanics,35.2
+24,Alberta ,Calgary Zone,,Elevator Constructors,39.47
+25,Alberta ,Calgary Zone,,Mobile Crane Operators,28.88
+26,Alberta ,Calgary Zone,,Tower Crane Operators,26.11
+27,Alberta ,Calgary Zone,,Straight Truck Drivers,22.88
+28,Alberta ,Calgary Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,23.38
+29,Alberta ,Calgary Zone,,Grader Operators,25.31
+30,Alberta ,Calgary Zone,,Paving Machine and Asphalt Plant Operators,26.54
+31,Alberta ,Calgary Zone,,Scraper Operators,21.66
+32,Alberta ,Calgary Zone,,Packer (road roller) Operators,19.93
+33,Alberta ,Calgary Zone,,General Welder - Canadian Welders' Bureau,29.75
+34,Alberta ,Calgary Zone,,Asphalt Layers (by hand - includes rakers),24.49
+35,Alberta ,Calgary Zone,,"Trade Helpers, Labourers (except asphalt layers and scaffold erectors)",18.69
+36,Alberta ,Calgary Zone,,Scaffold Erectors,22.99
+37,Alberta ,Edmonton Zone,,Electricians,31.09
+38,Alberta ,Edmonton Zone,,Plumbers,30.8
+39,Alberta ,Edmonton Zone,,Sprinkler System Installers,36.95
+40,Alberta ,Edmonton Zone,,"Pipefitters, Steamfitters",26.12
+41,Alberta ,Edmonton Zone,,Sheet Metal Workers,28.94
+42,Alberta ,Edmonton Zone,,Ironworkers (except reinforcing ironworkers(rebar/rodman)),25.94
+43,Alberta ,Edmonton Zone,,Reinforcing Ironworkers (Rebar/Rodman),29.62
+44,Alberta ,Edmonton Zone,,Metal Building System Erectors,23.67
+45,Alberta ,Edmonton Zone,,Carpenters,28.46
+46,Alberta ,Edmonton Zone,,Bricklayers (except refractory bricklayers),30.0
+47,Alberta ,Edmonton Zone,,Concrete Finishers,24.72
+48,Alberta ,Edmonton Zone,,"Tilesetters (including terrazo, marble setters)",25.5
+49,Alberta ,Edmonton Zone,,Plasterers and Drywall Tapers,26.91
+50,Alberta ,Edmonton Zone,,"Drywall Installers,Finishers and Lathers",26.52
+51,Alberta ,Edmonton Zone,,Interior System Mechanics (including steel stud),27.18
+52,Alberta ,Edmonton Zone,,Roofers,26.38
+53,Alberta ,Edmonton Zone,,Glaziers,25.68
+54,Alberta ,Edmonton Zone,,Insulators,23.58
+55,Alberta ,Edmonton Zone,,Painters,21.29
+56,Alberta ,Edmonton Zone,,Construction Millwrights,29.09
+57,Alberta ,Edmonton Zone,,Heavy-Duty Equipment Mechanics,31.45
+58,Alberta ,Edmonton Zone,,Refrigeration and Air Conditioning Mechanics,33.91
+59,Alberta ,Edmonton Zone,,Elevator Constructors,40.98
+60,Alberta ,Edmonton Zone,,Mobile Crane Operators,28.02
+61,Alberta ,Edmonton Zone,,Tower Crane Operators,26.11
+62,Alberta ,Edmonton Zone,,Straight Truck Drivers,22.98
+63,Alberta ,Edmonton Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,27.01
+64,Alberta ,Edmonton Zone,,Grader Operators,27.46
+65,Alberta ,Edmonton Zone,,Paving Machine and Asphalt Plant Operators,23.13
+66,Alberta ,Edmonton Zone,,Scraper Operators,25.72
+67,Alberta ,Edmonton Zone,,Packer (road roller) Operators,20.7
+68,Alberta ,Edmonton Zone,,General Welder - Canadian Welders' Bureau,32.44
+69,Alberta ,Edmonton Zone,,Asphalt Layers (by hand - includes rakers),23.57
+70,Alberta ,Edmonton Zone,,"Trade Helpers, Labourers (except asphalt layers andscaffold erectors)",19.1
+71,Alberta ,Edmonton Zone,,Scaffold Erectors,22.99
+72,Alberta ,Mid Zone,,Electricians,29.79
+73,Alberta ,Mid Zone,,Plumbers,28.09
+74,Alberta ,Mid Zone,,Sprinkler System Installers,35.62
+75,Alberta ,Mid Zone,,"Pipefitters, Steamfitters",26.92
+76,Alberta ,Mid Zone,,Sheet Metal Workers,23.37
+77,Alberta ,Mid Zone,,Ironworkers (except reinforcing ironworkers (rebar/rodman)),26.84
+78,Alberta ,Mid Zone,,Reinforcing Ironworkers (Rebar/Rodman),19.96
+79,Alberta ,Mid Zone,,Metal Building System Erectors,24.12
+80,Alberta ,Mid Zone,,Carpenters,25.56
+81,Alberta ,Mid Zone,,Bricklayers (except refractory bricklayers),30.61
+82,Alberta ,Mid Zone,,Concrete Finishers,21.9
+83,Alberta ,Mid Zone,,"Tilesetters (including terrazo, marble setters)",25.35
+84,Alberta ,Mid Zone,,Plasterers and Drywall Tapers,23.49
+85,Alberta ,Mid Zone,,"Drywall Installers, Finishers and Lathers",25.51
+86,Alberta ,Mid Zone,,Interior System Mechanics (including steel stud),26.78
+87,Alberta ,Mid Zone,,Roofers,26.28
+88,Alberta ,Mid Zone,,Glaziers,26.45
+89,Alberta ,Mid Zone,,Insulators,21.17
+90,Alberta ,Mid Zone,,Painters,20.78
+91,Alberta ,Mid Zone,,Construction Millwrights,29.09
+92,Alberta ,Mid Zone,,Heavy-Duty Equipment Mechanics,28.05
+93,Alberta ,Mid Zone,,Refrigeration and Air Conditioning Mechanics,33.49
+94,Alberta ,Mid Zone,,Elevator Constructors,39.95
+95,Alberta ,Mid Zone,,Mobile Crane Operators,28.02
+96,Alberta ,Mid Zone,,Tower Crane Operators,26.11
+97,Alberta ,Mid Zone,,Straight Truck Drivers,24.03
+98,Alberta ,Mid Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,23.2
+99,Alberta ,Mid Zone,,Grader Operators,24.17
+100,Alberta ,Mid Zone,,Paving Machine and Asphalt Plant Operators,24.07
+101,Alberta ,Mid Zone,,Scraper Operators,25.12
+102,Alberta ,Mid Zone,,Packer (road roller) Operators,19.72
+103,Alberta ,Mid Zone,,General Welder - Canadian Welders' Bureau,25.84
+104,Alberta ,Mid Zone,,Asphalt Layers (by hand - includes rakers),20.99
+105,Alberta ,Mid Zone,,"Trade Helpers, Labourers (except asphalt layers and scaffold erectors)",17.22
+106,Alberta ,Mid Zone,,Scaffold Erectors,22.99
+107,Alberta ,North Zone,,Electricians,31.87
+108,Alberta ,North Zone,,Plumbers,32.59
+109,Alberta ,North Zone,,Sprinkler System Installers,35.62
+110,Alberta ,North Zone,,"Pipefitters, Steamfitters",30.81
+111,Alberta ,North Zone,,Sheet Metal Workers,30.33
+112,Alberta ,North Zone,,Ironworkers (except reinforcing ironworkers (rebar/rodman)),26.84
+113,Alberta ,North Zone,,Reinforcing Ironworkers (Rebar/Rodman),27.98
+114,Alberta ,North Zone,,Metal Building System Erectors,24.12
+115,Alberta ,North Zone,,Carpenters,26.48
+116,Alberta ,North Zone,,Bricklayers (except refractory brick layers),30.61
+117,Alberta ,North Zone,,Concrete Finishers,26.67
+118,Alberta ,North Zone,,"Tilesetters (including terrazo, marble setters)",25.35
+119,Alberta ,North Zone,,Plasterers and Drywall Tapers,25.99
+120,Alberta ,North Zone,,"Drywall Installers,Finishers and Lathers",25.51
+121,Alberta ,North Zone,,Interior System Mechanics (including steel stud),26.78
+122,Alberta ,North Zone,,Roofers,22.13
+123,Alberta ,North Zone,,Glaziers,26.45
+124,Alberta ,North Zone,,Insulators,22.4
+125,Alberta ,North Zone,,Painters,19.91
+126,Alberta ,North Zone,,Construction Millwrights,29.09
+127,Alberta ,North Zone,,Heavy-Duty Equipment Mechanics,28.96
+128,Alberta ,North Zone,,Refrigeration and Air Conditioning Mechanics,35.69
+129,Alberta ,North Zone,,Elevator Constructors,39.95
+130,Alberta ,North Zone,,Mobile Crane Operators,28.02
+131,Alberta ,North Zone,,Tower Crane Operators,26.11
+132,Alberta ,North Zone,,Straight Truck Drivers,24.88
+133,Alberta ,North Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,25.75
+134,Alberta ,North Zone,,Grader Operators,25.1
+135,Alberta ,North Zone,,Paving Machine and Asphalt Plant Operators,24.07
+136,Alberta ,North Zone,,Scraper Operators,25.56
+137,Alberta ,North Zone,,Packer (road roller) Operators,19.92
+138,Alberta ,North Zone,,General Welder - Canadian Welders' Bureau,39.36
+139,Alberta ,North Zone,,Asphalt Layers (by hand - includes rakers),23.62
+140,Alberta ,North Zone,,"Trade Helpers, Labourers (except asphalt layers andscaffold erectors)",18.31
+141,Alberta ,North Zone,,Scaffold Erectors,22.99
+142,Alberta ,South Zone,,Electricians,28.28
+143,Alberta ,South Zone,,Plumbers,27.7
+144,Alberta ,South Zone,,Sprinkler System Installers,35.62
+145,Alberta ,South Zone,,"Pipefitters, Steamfitters",21.45
+146,Alberta ,South Zone,,Sheet Metal Workers,25.11
+147,Alberta ,South Zone,,Ironworkers (except reinforcing ironworkers (rebar/rodman)),27.09
+148,Alberta ,South Zone,,Reinforcing Ironworkers (Rebar/Rodman),27.98
+149,Alberta ,South Zone,,Metal Building System Erectors,24.12
+150,Alberta ,South Zone,,Carpenters,22.81
+151,Alberta ,South Zone,,Bricklayers (except refractory bricklayers),27.0
+152,Alberta ,South Zone,,Concrete Finishers,21.4
+153,Alberta ,South Zone,,"Tilesetters (including terrazo, marble setters)",25.35
+154,Alberta ,South Zone,,Plasterers and Drywall Tapers,23.92
+155,Alberta ,South Zone,,"Drywall Installers, Finishers and Lathers",24.67
+156,Alberta ,South Zone,,Interior System Mechanics (including steel stud),24.88
+157,Alberta ,South Zone,,Roofers,18.88
+158,Alberta ,South Zone,,Glaziers,26.45
+159,Alberta ,South Zone,,Insulators,18.27
+160,Alberta ,South Zone,,Painters,20.21
+161,Alberta ,South Zone,,Construction Millwrights,29.09
+162,Alberta ,South Zone,,Heavy-Duty Equipment Mechanics,25.97
+163,Alberta ,South Zone,,Refrigeration and Air Conditioning Mechanics,27.89
+164,Alberta ,South Zone,,Elevator Constructors,39.95
+165,Alberta ,South Zone,,Mobile Crane Operators,28.02
+166,Alberta ,South Zone,,Tower Crane Operators,26.11
+167,Alberta ,South Zone,,Straight Truck Drivers,18.65
+168,Alberta ,South Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,21.22
+169,Alberta ,South Zone,,Grader Operators,24.52
+170,Alberta ,South Zone,,Paving Machine and Asphalt Plant Operators,24.07
+171,Alberta ,South Zone,,Scraper Operators,22.89
+172,Alberta ,South Zone,,Packer (road roller) Operators,17.79
+173,Alberta ,South Zone,,General Welder - Canadian Welders' Bureau,26.24
+174,Alberta ,South Zone,,Asphalt Layers (by hand - includes rakers),23.62
+175,Alberta ,South Zone,,"Trade Helpers, Labourers (except asphalt layers and scaffold erectors)",16.03
+176,Alberta ,South Zone,,Scaffold Erectors,22.99
+177,British Columbia,Island/Coast/North Zone,,Electricians,30.6
+178,British Columbia,Island/Coast/North Zone,,Plumbers,32.4
+179,British Columbia,Island/Coast/North Zone,,Sprinkler System Installers,32.0
+180,British Columbia,Island/Coast/North Zone,,Steamfitters and Pipefitters,33.4
+181,British Columbia,Island/Coast/North Zone,,Sheet Metal Workers,30.5
+182,British Columbia,Island/Coast/North Zone,,Ironworkers (excluding Reinforcing Ironworkers),32.4
+183,British Columbia,Island/Coast/North Zone,,Reinforcing Ironworkers (rebar/rodman),23.9
+184,British Columbia,Island/Coast/North Zone,,Carpenters,28.2
+185,British Columbia,Island/Coast/North Zone,,Bricklayers,29.5
+186,British Columbia,Island/Coast/North Zone,,Concrete Finishers,24.5
+187,British Columbia,Island/Coast/North Zone,,"Tilesetters (including Terrazo and Marble, etc.)",27.9
+188,British Columbia,Island/Coast/North Zone,,Plasterers and Stucco Applicators,25.0
+189,British Columbia,Island/Coast/North Zone,,"Drywall Installers, Finishers, Lathers and Tapers",26.9
+190,British Columbia,Island/Coast/North Zone,,Roofers,24.1
+191,British Columbia,Island/Coast/North Zone,,Glaziers,26.8
+192,British Columbia,Island/Coast/North Zone,,Insulators,23.8
+193,British Columbia,Island/Coast/North Zone,,Painters,21.1
+194,British Columbia,Island/Coast/North Zone,,Floor Covering Installers,23.2
+195,British Columbia,Island/Coast/North Zone,,Construction Millwrights,35.19
+196,British Columbia,Island/Coast/North Zone,,Heavy Equipment Mechanics,29.9
+197,British Columbia,Island/Coast/North Zone,,Refrigeration and Air Conditioning Mechanics,35.2
+198,British Columbia,Island/Coast/North Zone,,Elevator Constructors,43.79
+199,British Columbia,Island/Coast/North Zone,,Mobile Crane Operators,34.2
+200,British Columbia,Island/Coast/North Zone,,Tower Crane Operators,30.18
+201,British Columbia,Island/Coast/North Zone,,Straight Truck Drivers,26.9
+202,British Columbia,Island/Coast/North Zone,,Road Tractor Drivers of Semi-Trailers and Trailers,25.9
+203,British Columbia,Island/Coast/North Zone,,"Heavy Equipment Operators (excluding Cranes, Graders and Asphalt and Paving Machines)",27.4
+204,British Columbia,Island/Coast/North Zone,,Grader Operators,27.1
+205,British Columbia,Island/Coast/North Zone,,Paving Machine and Asphalt Plant Operators,28.7
+206,British Columbia,Island/Coast/North Zone,,Scraper Operators,28.4
+207,British Columbia,Island/Coast/North Zone,,Packer (Road-Roller) Operators,23.4
+208,British Columbia,Island/Coast/North Zone,,Pressure Vessel Welders,32.5
+209,British Columbia,Island/Coast/North Zone,,Traffic Accommodation Persons,17.5
+210,British Columbia,Island/Coast/North Zone,,Form Setters,23.4
+211,British Columbia,Island/Coast/North Zone,,Asphalt Layers (by hand - includes rakers),25.31
+212,British Columbia,Island/Coast/North Zone,,"Helpers, Labourers (excluding Asphalt Layers, Traffic Accommodation Persons or Form Setters)",18.7
+213,British Columbia,Island/Coast/North Zone,,Powder Persons and Drillers,29.4
+214,British Columbia,Island/Coast/North Zone,,"Helpers, Labourers with First Aid Ticket",19.0
+215,British Columbia,Vancouver Zone,,Electricians,31.4
+216,British Columbia,Vancouver Zone,,Plumbers,29.3
+217,British Columbia,Vancouver Zone,,Sprinkler System Installers,28.5
+218,British Columbia,Vancouver Zone,,Steamfitters and Pipefitters,31.4
+219,British Columbia,Vancouver Zone,,Sheet Metal Workers,29.3
+220,British Columbia,Vancouver Zone,,Ironworkers (excluding Reinforcing Ironworkers),27.9
+221,British Columbia,Vancouver Zone,,Reinforcing Ironworkers (rebar/rodman),21.1
+222,British Columbia,Vancouver Zone,,Carpenters,26.4
+223,British Columbia,Vancouver Zone,,Bricklayers,30.2
+224,British Columbia,Vancouver Zone,,Concrete Finishers,26.6
+225,British Columbia,Vancouver Zone,,"Tilesetters (including Terrazzo and Marble, etc.)",27.2
+226,British Columbia,Vancouver Zone,,Plasterers and Stucco Applicators,26.7
+227,British Columbia,Vancouver Zone,,"Drywall Installers, Finishers, Lathers and Tapers",27.1
+228,British Columbia,Vancouver Zone,,Roofers,24.3
+229,British Columbia,Vancouver Zone,,Glaziers,28.0
+230,British Columbia,Vancouver Zone,,Insulators,24.8
+231,British Columbia,Vancouver Zone,,Painters,22.7
+232,British Columbia,Vancouver Zone,,Floor Covering Installers,29.6
+233,British Columbia,Vancouver Zone,,Construction Millwrights,35.19
+234,British Columbia,Vancouver Zone,,Heavy-Duty Equipment Mechanics,31.7
+235,British Columbia,Vancouver Zone,,Refrigeration and Air Conditioning Mechanics,37.6
+236,British Columbia,Vancouver Zone,,Elevator Constructors,42.5
+237,British Columbia,Vancouver Zone,,Mobile Crane Operators,32.6
+238,British Columbia,Vancouver Zone,,Tower Crane Operators,32.8
+239,British Columbia,Vancouver Zone,,Straight Truck Drivers,23.3
+240,British Columbia,Vancouver Zone,,Road Tractor Drivers of Semi-Trailers and Trailers,25.8
+241,British Columbia,Vancouver Zone,,"Heavy Equipment Operators (excluding Cranes, Graders and Asphalt and Paving Machines)",29.9
+242,British Columbia,Vancouver Zone,,Grader Operators,28.7
+243,British Columbia,Vancouver Zone,,Paving Machine and Asphalt Plant Operators,28.7
+244,British Columbia,Vancouver Zone,,Scraper Operators,29.5
+245,British Columbia,Vancouver Zone,,Packer (Road-Roller) Operators,28.2
+246,British Columbia,Vancouver Zone,,Pressure Vessel Welders,29.1
+247,British Columbia,Vancouver Zone,,Traffic Accommodation Persons,20.7
+248,British Columbia,Vancouver Zone,,Form Setters,24.3
+249,British Columbia,Vancouver Zone,,Asphalt Layers (by hand - includes rakers),26.7
+250,British Columbia,Vancouver Zone,,"Helpers, Labourers (excluding Asphalt Layers, Traffic Accommodation Persons or Form Setters)",19.5
+251,British Columbia,Vancouver Zone,,Powder Persons and Drillers,29.3
+252,British Columbia,Vancouver Zone,,"Helpers, Labourers with First Aid Ticket",21.1
+253,British Columbia,South Interior Zone,,Electricians,28.8
+254,British Columbia,South Interior Zone,,Plumbers,30.0
+255,British Columbia,South Interior Zone,,Sprinkler System Installers,32.4
+256,British Columbia,South Interior Zone,,Steamfitters and Pipefitters,31.6
+257,British Columbia,South Interior Zone,,Sheet Metal Workers,29.1
+258,British Columbia,South Interior Zone,,Ironworkers (excluding Reinforcing Ironworkers),29.2
+259,British Columbia,South Interior Zone,,Reinforcing Ironworkers (rebar/rodman),22.9
+260,British Columbia,South Interior Zone,,Carpenters,26.7
+261,British Columbia,South Interior Zone,,Bricklayers,27.9
+262,British Columbia,South Interior Zone,,Concrete Finishers,24.4
+263,British Columbia,South Interior Zone,,"Tilesetters (including Terrazzo and Marble, etc.)",27.3
+264,British Columbia,South Interior Zone,,Plasterer and Stucco Applicators,26.0
+265,British Columbia,South Interior Zone,,"Drywall Installers and Finishers, Lathers and Tapers",27.4
+266,British Columbia,South Interior Zone,,Roofers,22.4
+267,British Columbia,South Interior Zone,,Glaziers,23.9
+268,British Columbia,South Interior Zone,,Insulators,20.6
+269,British Columbia,South Interior Zone,,Painters,21.1
+270,British Columbia,South Interior Zone,,Floor Covering Installers,28.58
+271,British Columbia,South Interior Zone,,Construction Millwrights,35.5
+272,British Columbia,South Interior Zone,,Heavy Equipment Mechanics,28.9
+273,British Columbia,South Interior Zone,,Refrigeration and Air Conditioning Mechanics,31.6
+274,British Columbia,South Interior Zone,,Elevator Constructors,43.79
+275,British Columbia,South Interior Zone,,Mobile Crane Operators,29.0
+276,British Columbia,South Interior Zone,,Tower Crane Operators,30.18
+277,British Columbia,South Interior Zone,,Straight Truck Drivers,24.7
+278,British Columbia,South Interior Zone,,Road Tractor Drivers of Semi-Trailers and Trailers,24.2
+279,British Columbia,South Interior Zone,,"Heavy Equipment Operators (excluding Cranes, Graders and Asphalt and Paving Machines)",26.5
+280,British Columbia,South Interior Zone,,Grader Operators,26.5
+281,British Columbia,South Interior Zone,,Paving Machine and Asphalt Plant Operators,25.5
+282,British Columbia,South Interior Zone,,Scraper Operators,24.2
+283,British Columbia,South Interior Zone,,Packer (Road-Roller) Operators,23.6
+284,British Columbia,South Interior Zone,,Pressure Vessel Welders,32.7
+285,British Columbia,South Interior Zone,,Traffic Accommodation Persons,17.2
+286,British Columbia,South Interior Zone,,Form Setters,23.1
+287,British Columbia,South Interior Zone,,Asphalt Layers (by hand - includes rakers),25.31
+288,British Columbia,South Interior Zone,,"Helpers, Labourers (excluding Asphalt Layers, Traffic Accommodation Persons or Form Setters)",18.8
+289,British Columbia,South Interior Zone,,Powder Persons and Drillers,25.6
+290,British Columbia,South Interior Zone,,"Helper, Labourers with First Aid Ticket",19.2
+291,Prince Edward Island,,,Electricians,18.81
+292,Prince Edward Island,,,Plumbers,20.3
+293,Prince Edward Island,,,Carpenters,16.44
+294,Prince Edward Island,,,Painters,13.09
+295,Prince Edward Island,,,Heavy-Duty Equipment Mechanics,14.64
+296,Prince Edward Island,,,Truck Drivers,13.35
+297,Prince Edward Island,,,"Operators Heavy Equipment (ex. Cranes, Graders, Asphalt Paving)",14.17
+298,Prince Edward Island,,,Grader Operators,14.94
+299,Prince Edward Island,,,Traffic Accommodation Person (Flag Person),8.64
+300,Prince Edward Island,,,"Trade Helpers, Labourers (ex. Asphalt Layers, Flag Persons, Form setter)",12.75
+301,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Boilermaker,23.22
+302,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Bricklayer,24.21
+303,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Carpenter,22.05
+304,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Concrete finisher,19.04
+305,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Construction electrician,26.06
+306,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Crane and hoisting equipment operator- Mobile crane operator,21.78
+307,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Crane and hoisting equipment operator- Tower crane operator,23.54
+308,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Crane and hoisting equipment operator- Boom truck hoist operator,18.9
+309,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Glazier,21.06
+310,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Industrial mechanic (millwright),24.03
+311,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Ironworker- Structural steel erector,24.21
+312,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Ironworker- Reinforcing iron (rebar),21.02
+313,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Ironworker- Miscellaneous metal worker/ornamental worker,23.84
+314,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Lather (interior systems mechanic),20.03
+315,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,"Painter, decorator",19.22
+316,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Plumber,25.74
+317,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Refrigeration and air conditioning mechanic,25.02
+318,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Roofer,20.84
+319,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Sheet metal worker,26.55
+320,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Sprinkler system installer,27.95
+321,Manitoba,Outside Winnipeg Area,Part 1: Journeypersons,Steamfitter/pipefitter,25.74
+322,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Asbestos abatement worker,17.55
+323,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Asbestos abatement worker Trainee 2 (1,201 to 2,400 hours)",14.04
+324,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Asbestos abatement worker Trainee 1 (0 to 1,200 hours)",10.53
+325,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Elevator constructor,27.0
+326,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Elevator constructor Trainee 2 (1,201 to 2,400 hours)",21.6
+327,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Elevator constructor Trainee 1 (0 to 1,200 hours)",16.2
+328,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Floor coverer,20.25
+329,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Floor coverer Trainee 2 (1,201 to 2,400 hours)",16.2
+330,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Floor coverer Trainee 1 (0 to 1,200 hours)",12.15
+331,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Insulator,20.79
+332,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Insulator Trainee 2 (1,201 to 2,400 hours)",16.63
+333,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Insulator Trainee 1 (0 to 1,200 hours)",12.47
+334,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Specialty labourer (assisting bricklayer),17.87
+335,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Specialty labourer (assisting bricklayer) Trainee 2 (1,201 to 2,400 hours)",14.3
+336,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Specialty labourer (assisting bricklayer) Trainee 1 (0 to 1,200 hours)",10.72
+337,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,General construction labourer,17.01
+338,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- General construction labourer Trainee 2 (1,201 to 2,400 hours)",13.61
+339,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- General construction labourer Trainee 1 (0 to 1,200 hours)",10.21
+340,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"Marble, tile and terrazzo",19.17
+341,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Marble, tile and terrazzo Trainee 2 (1,201 to 2,400 hours)",15.34
+342,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Marble, tile and terrazzo Trainee 1 (0 to 1,200 hours)",11.5
+343,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Plasterer,20.07
+344,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Plasterer Trainee 2 (1,201 to 2,400 hours)",16.06
+345,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Plasterer Trainee 1 (0 to 1,200 hours)",12.04
+346,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Pre-fabricated metal building erector,21.6
+347,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Pre-fabricated metal building erector Trainee 2 (1,201 to 2,400 hours)",17.28
+348,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Pre-fabricated metal building erector Trainee 1 (0 to 1,200 hours)",12.96
+349,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"Sheeter, decker and cladder",23.36
+350,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Sheeter, decker and cladder Trainee 2 (1,201 to 2,400 hours)",18.69
+351,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Sheeter, decker and cladder Trainee 1 (0 to 1,200 hours)",14.02
+352,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,Scaffolder,22.05
+353,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Scaffolder Trainee 2 (1,201 to 2,400 hours)",17.64
+354,Manitoba,Outside Winnipeg Area,Part 2: Skilled People,"- Scaffolder Trainee 1 (0 to 1,200 hours)",13.23
+355,Manitoba,Outside Winnipeg Area,Part 3: Other workers,Construction worker,10.98
+356,Manitoba,Outside Winnipeg Area,Part 3: Other workers,Heavy construction sector -Mobile crane operator working on heavy construction,17.7
+357,Manitoba,Outside Winnipeg Area,Part 3: Other workers,Heavy construction sector -Heavy duty mechanic or welder working on heavy equipment,16.2
+358,Manitoba,Outside Winnipeg Area,Part 3: Other workers,"Heavy construction sector -Operator of a dragline, clam shell, shovel, hydraulic excavator, pile driver and other equipment requiring similar skills",16.0
+359,Manitoba,Outside Winnipeg Area,Part 3: Other workers,"Heavy construction sector -Plant operator, operator of paving machine, dozer, loader, loader backhoe, grader, scraper, hydro excavator, tractor with controlled attachments, and other equipment requiring similar skills",14.25
+360,Manitoba,Outside Winnipeg Area,Part 3: Other workers,"Heavy construction sector -Truck operator of trucks with four or more axles, fuel truck, distribution truck, truck with hydraulic boom hoist",14.0
+361,Manitoba,Outside Winnipeg Area,Part 3: Other workers,"Heavy construction sector -Truck operator of trucks with less than four axles and more than 2,500 kgs",13.2
+362,Manitoba,Outside Winnipeg Area,Part 3: Other workers,"Heavy construction sector -Operator of light trucks (less than 2,500 kgs) ride-on/tractor-pulled compaction equipment and other equipment requiring similar skills",12.4
+363,Manitoba,Outside Winnipeg Area,Part 3: Other workers,"Heavy construction sector -Skilled labourer including concrete finisher, pipelayer, screedman and jobs requiring similar skills in the heavy construction industry",12.8
+364,Manitoba,Outside Winnipeg Area,Part 3: Other workers,Heavy construction sector -General labourer in heavy construction industry not otherwise classified,11.4
+365,Manitoba,Outside Winnipeg Area,Part 3: Other workers,"Heavy construction sector -Watcher, flagger and rodman",9.9
+366,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Boilermaker,25.8
+367,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Bricklayer,26.9
+368,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Carpenter,24.5
+369,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Concrete finisher,21.15
+370,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Construction electrician,28.95
+371,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Crane and hoisting equipment operator - Mobile crane operator,24.2
+372,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Crane and hoisting equipment operator - Tower crane operator,26.15
+373,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Crane and hoisting equipment operator - Boom truck hoist operator,21.0
+374,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Glazier,23.4
+375,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Industrial mechanic (millwright),26.7
+376,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Ironworker - Structural steel erector,26.9
+377,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Ironworker - Reinforcing iron (rebar),23.35
+378,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Ironworker - Miscellaneous metal worker/ornamental worker,26.49
+379,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Lather (interior systems mechanic),22.25
+380,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,"Painter, decorator",21.35
+381,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Plumber,28.6
+382,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Refrigeration and air conditioning mechanic,27.8
+383,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Roofer,23.15
+384,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Sheet metal worker,29.5
+385,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Sprinkler system installer,31.05
+386,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 1: Journeypersons,Steamfitter/pipefitter,28.6
+387,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Asbestos abatement worker,19.5
+388,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Asbestos abatement worker Trainee 2 (1,201 to 2,400 hours)",15.6
+389,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Asbestos abatement worker Trainee 1 (0 to 1,200 hours)",11.7
+390,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Elevator constructor,30.0
+391,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Elevator constructor Trainee 2 (1,201 to 2,400 hours)",24.0
+392,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Elevator constructor Trainee 1 (0 to 1,200 hours)",18.0
+393,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Floor coverer,22.5
+394,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Floor coverer Trainee 2 (1,201 to 2,400 hours)",18.0
+395,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Floor coverer Trainee 1 (0 to 1,200 hours)",13.5
+396,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Insulator,23.1
+397,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Insulator Trainee 2 (1,201 to 2,400 hours)",18.48
+398,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Insulator Trainee 1 (0 to 1,200 hours)",13.86
+399,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Specialty labourer (assisting bricklayer),19.85
+400,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Specialty labourer (assisting bricklayer) Trainee 2 (1,201 to 2,400 hours)",15.88
+401,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Specialty labourer (assisting bricklayer) Trainee 1 (0 to 1,200 hours",11.91
+402,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,General construction labourer,18.9
+403,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- General construction labourer Trainee 2 (1,201 to 2,400 hours)",15.12
+404,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- General construction labourer Trainee 1 (0 to 1,200 hours)",11.34
+405,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"Marble, tile and terrazzo",21.3
+406,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Marble, tile and terrazzo Trainee 2 (1,201 to 2,400 hours)",17.04
+407,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Marble, tile and terrazzo Trainee 1 (0 to 1,200 hours)",12.78
+408,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Plasterer,22.3
+409,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Plasterer Trainee 2 (1,201 to 2,400 hours)",17.84
+410,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Plasterer Trainee 1 (0 to 1,200 hours)",13.38
+411,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Pre-fabricated metal building erector,24.0
+412,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Pre-fabricated metal building erector Trainee 2 (1,201 to 2,400 hours)",19.2
+413,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Pre-fabricated metal building erector Trainee 1 (0 to 1,200 hours)",14.4
+414,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"Sheeter, decker and cladder",25.95
+415,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Sheeter, decker and cladder Trainee 2 (1,201 to 2,400 hours)",20.76
+416,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Sheeter, decker and cladder Trainee 1 (0 to 1,200 hours)",15.57
+417,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,Scaffolder,24.5
+418,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Scaffolder Trainee 2 (1,201 to 2,400 hours)",19.6
+419,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 2: Skilled People,"- Scaffolder Trainee 1 (0 to 1,200 hours)",14.7
+420,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,Construction worker,12.2
+421,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,Heavy construction sector - Mobile crane operator working on heavy construction,17.7
+422,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,Heavy construction sector -Heavy duty mechanic or welder working on heavy equipment,16.2
+423,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,"Heavy construction sector - Operator of a dragline, clam shell, shovel, hydraulic excavator, pile driver and other equipment requiring similar skills",16.0
+424,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,"Heavy construction sector - Plant operator, operator of paving machine, dozer, loader, loader backhoe, grader, scraper, hydro excavator, tractor with controlled attachments, and other equipment requiring similar skills",14.25
+425,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,"Heavy construction sector - Truck operator of trucks with four or more axles, fuel truck, distribution truck, truck with hydraulic boom hoist",14.0
+426,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,"Heavy construction sector - Truck operator of trucks with less than four axles and more than 2,500 kgs",13.2
+427,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,"Heavy construction sector - Operator of light trucks (less than 2,500 kgs) ride-on/tractor-pulled compaction equipment and other equipment requiring similar skills",12.4
+428,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,"Heavy construction sector - Skilled labourer including concrete finisher, pipelayer, screedman and jobs requiring similar skills in the heavy construction industry",12.8
+429,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,Heavy construction sector - General labourer in heavy construction industry not otherwise classified,11.4
+430,Manitoba,"Winnipeg and ""Major Building Construction Projects""",Part 3: Other workers,"Heavy construction sector - Watcher, flagger and rodman",9.9
+431,New Brunswick,East Zone,,Electricians,23.42
+432,New Brunswick,East Zone,,Plumbers,22.94
+433,New Brunswick,East Zone,,"Pipefitters, Steamfitters",29.32
+434,New Brunswick,East Zone,,Sheet Metal Workers,21.87
+435,New Brunswick,East Zone,,Ironworkers,27.09
+436,New Brunswick,East Zone,,Carpenters,17.02
+437,New Brunswick,East Zone,,Bricklayers,21.69
+438,New Brunswick,East Zone,,Cement Finishers,17.07
+439,New Brunswick,East Zone,,"Tilesetters (including terrazo, marble setters)",17.41
+440,New Brunswick,East Zone,,"Drywall Installers, Finishers, Lathers and Tapers",18.62
+441,New Brunswick,East Zone,,Roofers,19.84
+442,New Brunswick,East Zone,,Painters,14.72
+443,New Brunswick,East Zone,,Heavy-Duty Equipment Mechanics,18.68
+444,New Brunswick,East Zone,,Refrigeration and Air Conditioning Mechanics,21.36
+445,New Brunswick,East Zone,,Crane Operators,20.82
+446,New Brunswick,East Zone,,Truck Drivers,13.61
+447,New Brunswick,East Zone,,"Operators Heavy Equipment (excluding Cranes, Graders, Asphalt Paving)",15.09
+448,New Brunswick,East Zone,,Grader Operators,13.24
+449,New Brunswick,East Zone,,Pressure Vessel Welder,20.7
+450,New Brunswick,East Zone,,Paver and Asphalt Plant Operators,13.29
+451,New Brunswick,East Zone,,Traffic Accommodation Person (Flag Persons),9.51
+452,New Brunswick,East Zone,,"Trade Helpers, Labourers (excluding Flag persons)",13.05
+453,New Brunswick,West Zone,,Electricians,19.43
+454,New Brunswick,West Zone,,Plumbers,21.87
+455,New Brunswick,West Zone,,"Pipefitters, Steamfitters",30.66
+456,New Brunswick,West Zone,,Sheet Metal Workers,16.78
+457,New Brunswick,West Zone,,Ironworkers,27.95
+458,New Brunswick,West Zone,,Carpenters,16.3
+459,New Brunswick,West Zone,,Bricklayers,21.67
+460,New Brunswick,West Zone,,Cement Finishers,15.08
+461,New Brunswick,West Zone,,"Tilesetters (including terrazo, marble setters)",17.41
+462,New Brunswick,West Zone,,"Drywall Installers, Finishers, Lathers and Tapers",18.52
+463,New Brunswick,West Zone,,Roofers,19.01
+464,New Brunswick,West Zone,,Painters,18.56
+465,New Brunswick,West Zone,,Heavy-Duty Equipment Mechanics,16.04
+466,New Brunswick,West Zone,,Refrigeration and Air Conditioning Mechanics,20.48
+467,New Brunswick,West Zone,,Crane Operators,20.82
+468,New Brunswick,West Zone,,Truck Drivers,13.74
+469,New Brunswick,West Zone,,"Operators Heavy Equipment (excluding Cranes, Graders, Asphalt Paving)",16.52
+470,New Brunswick,West Zone,,Grader Operators,15.35
+471,New Brunswick,West Zone,,Paver and Asphalt Plant Operators,14.73
+472,New Brunswick,West Zone,,Pressure Vessel Welder,20.44
+473,New Brunswick,West Zone,,Traffic Accommodation Person (Flag persons),9.33
+474,New Brunswick,West Zone,,"Trade Helpers, Labourers (excluding Flag persons)",12.9
+475,Nova Scotia,North/Central/South Zone,,Electricians,20.08
+476,Nova Scotia,North/Central/South Zone,,Plumbers,19.06
+477,Nova Scotia,North/Central/South Zone,,"Pipefitters, Steamfitters",26.48
+478,Nova Scotia,North/Central/South Zone,,Sprinkler System Installers,26.61
+479,Nova Scotia,North/Central/South Zone,,Sheet Metal Workers,20.46
+480,Nova Scotia,North/Central/South Zone,,Ironworkers,24.65
+481,Nova Scotia,North/Central/South Zone,,Carpenters,17.66
+482,Nova Scotia,North/Central/South Zone,,Bricklayers,23.08
+483,Nova Scotia,North/Central/South Zone,,Cement Finishers,19.91
+484,Nova Scotia,North/Central/South Zone,,"Tilesetters (including terrazo, marble setters)",18.72
+485,Nova Scotia,North/Central/South Zone,,"Lathers, Interior System Mechanics/Drywall Installers",23.87
+486,Nova Scotia,North/Central/South Zone,,"Plasterers, Drywall Finishers and Tapers",21.21
+487,Nova Scotia,North/Central/South Zone,,Roofers,18.96
+488,Nova Scotia,North/Central/South Zone,,Glaziers,16.78
+489,Nova Scotia,North/Central/South Zone,,Painters,14.36
+490,Nova Scotia,North/Central/South Zone,,Construction Millwrights,23.12
+491,Nova Scotia,North/Central/South Zone,,Heavy-Duty Equipment Mechanics,18.26
+492,Nova Scotia,North/Central/South Zone,,Refrigeration and Air Conditioning Mechanics,20.56
+493,Nova Scotia,North/Central/South Zone,,Crane Operators,22.07
+494,Nova Scotia,North/Central/South Zone,,Straight Truck Drivers,13.18
+495,Nova Scotia,North/Central/South Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,13.6
+496,Nova Scotia,North/Central/South Zone,,"Operators Heavy Equipment (ex. Cranes, Graders, Asphalt Paving)",16.02
+497,Nova Scotia,North/Central/South Zone,,Grader Operators,15.86
+498,Nova Scotia,North/Central/South Zone,,Paver and Asphalt Plant Operators,14.93
+499,Nova Scotia,North/Central/South Zone,,Packer (Road-Roller) Operators,12.73
+500,Nova Scotia,North/Central/South Zone,,Traffic Accommodation Person (Flagperson),10.57
+501,Nova Scotia,North/Central/South Zone,,Form Setters,16.31
+502,Nova Scotia,North/Central/South Zone,,Asphalt Layers (by hand - includes rakers),15.53
+503,Nova Scotia,North/Central/South Zone,,"Trade Helpers, Labourers (excluding Asphalt Layers, Flagperson, Formsetter)",14.5
+504,Nova Scotia,Halifax Zone,,Electricians,24.46
+505,Nova Scotia,Halifax Zone,,Plumbers,24.5
+506,Nova Scotia,Halifax Zone,,"Pipefitters, Steamfitters",27.31
+507,Nova Scotia,Halifax Zone,,Sprinkler System Installers,26.61
+508,Nova Scotia,Halifax Zone,,Sheet Metal Workers,23.58
+509,Nova Scotia,Halifax Zone,,Ironworkers,24.65
+510,Nova Scotia,Halifax Zone,,Carpenters,22.35
+511,Nova Scotia,Halifax Zone,,Bricklayers,23.05
+512,Nova Scotia,Halifax Zone,,Cement Finishers,18.56
+513,Nova Scotia,Halifax Zone,,"Tilesetters (including terrazo, marble setters)",19.19
+514,Nova Scotia,Halifax Zone,,"Lathers, Interior System Mechanics/Drywall Installers",23.87
+515,Nova Scotia,Halifax Zone,,"Plasterers, Drywall Finishers and Tapers",22.8
+516,Nova Scotia,Halifax Zone,,Roofers,18.68
+517,Nova Scotia,Halifax Zone,,Glaziers,16.09
+518,Nova Scotia,Halifax Zone,,Insulators,25.03
+519,Nova Scotia,Halifax Zone,,Painters,16.99
+520,Nova Scotia,Halifax Zone,,Construction Millwrights,23.86
+521,Nova Scotia,Halifax Zone,,Heavy-Duty Equipment Mechanics,21.18
+522,Nova Scotia,Halifax Zone,,Refrigeration and Air Conditioning Mechanics,27.29
+523,Nova Scotia,Halifax Zone,,Crane Operators,22.07
+524,Nova Scotia,Halifax Zone,,Straight Truck Drivers,15.48
+525,Nova Scotia,Halifax Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,16.43
+526,Nova Scotia,Halifax Zone,,"Operators Heavy Equipment (ex. Cranes, Graders, Asphalt Paving)",18.18
+527,Nova Scotia,Halifax Zone,,Grader Operators,16.51
+528,Nova Scotia,Halifax Zone,,Paver and Asphalt Plant Operators,15.76
+529,Nova Scotia,Halifax Zone,,Packer (Road-Roller) Operators,14.74
+530,Nova Scotia,Halifax Zone,,Traffic Accommodation Person (Flagperson),9.59
+531,Nova Scotia,Halifax Zone,,Form Setters,15.77
+532,Nova Scotia,Halifax Zone,,Asphalt Layers (by hand - includes rakers),15.53
+533,Nova Scotia,Halifax Zone,,"Trade Helpers, Labourers (ex. Asphalt Layers, Flagpersons, Form setter)",15.65
+534,Nova Scotia,Cape Breton Zone,,Electricians,22.98
+535,Nova Scotia,Cape Breton Zone,,Plumbers,22.96
+536,Nova Scotia,Cape Breton Zone,,"Pipefitters, Steamfitters",26.48
+537,Nova Scotia,Cape Breton Zone,,Sprinkler System Installer,26.61
+538,Nova Scotia,Cape Breton Zone,,Sheet Metal Workers,23.66
+539,Nova Scotia,Cape Breton Zone,,Ironworkers,24.65
+540,Nova Scotia,Cape Breton Zone,,Carpenters,24.43
+541,Nova Scotia,Cape Breton Zone,,Bricklayers,24.47
+542,Nova Scotia,Cape Breton Zone,,Cement Finishers,19.09
+543,Nova Scotia,Cape Breton Zone,,"Tilesetters (including terrazo, marble setters)",18.72
+544,Nova Scotia,Cape Breton Zone,,"Lathers, Interior System Mechanics/Drywall Installers",23.87
+545,Nova Scotia,Cape Breton Zone,,"Plasterers, Drywall Finishers and Tapers",21.21
+546,Nova Scotia,Cape Breton Zone,,Roofers,18.96
+547,Nova Scotia,Cape Breton Zone,,Glaziers,16.78
+548,Nova Scotia,Cape Breton Zone,,Painters,22.21
+549,Nova Scotia,Cape Breton Zone,,Construction Millwrights,23.12
+550,Nova Scotia,Cape Breton Zone,,Heavy-Duty Equipment Mechanics,17.26
+551,Nova Scotia,Cape Breton Zone,,Refrigeration and Air Conditioning Mechanics,26.31
+552,Nova Scotia,Cape Breton Zone,,Crane Operators,22.07
+553,Nova Scotia,Cape Breton Zone,,Straight Truck Drivers,17.62
+554,Nova Scotia,Cape Breton Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,15.57
+555,Nova Scotia,Cape Breton Zone,,"Operators Heavy Equip. (excludes Cranes, Graders, Asphalt Paving)",22.19
+556,Nova Scotia,Cape Breton Zone,,Grader Operators,16.51
+557,Nova Scotia,Cape Breton Zone,,Paver and Asphalt Plant Operators,15.76
+558,Nova Scotia,Cape Breton Zone,,Packer (Road-Roller) Operators,17.17
+559,Nova Scotia,Cape Breton Zone,,Traffic Accommodation Person (Flagperson),12.7
+560,Nova Scotia,Cape Breton Zone,,Form Setters,16.35
+561,Nova Scotia,Cape Breton Zone,,Asphalt Layers (by hand - includes rakers),15.53
+562,Nova Scotia,Cape Breton Zone,,"Trade Helpers, Labourers (ex. Asphalt Layers, Flag persons, Form setter)",19.87
+563,Nunavut,,,Electricians,32.4
+564,Nunavut,,,Plumbers,29.1
+565,Nunavut,,,Carpenters,28.5
+566,Nunavut,,,Heavy-Duty Equipment Mechanics,30.7
+567,Nunavut,,,"Heavy Equipment Operators (excluding Cranes, Graders and Asphalt and Paving Machines)",26.0
+568,Nunavut,,,"Helpers, Labourers (excluding Traffic Accommodation Persons)",20.5
+569,Ontario ,Northeast / Northwest Zone,,Electricians,35.22
+570,Ontario ,Northeast / Northwest Zone,,Plumbers,32.3
+571,Ontario ,Northeast / Northwest Zone,,Sprinkler System Installers,36.14
+572,Ontario ,Northeast / Northwest Zone,," Pipefitters, Steamfitters",31.28
+573,Ontario ,Northeast / Northwest Zone,,Sheet Metal Workers,31.7
+574,Ontario ,Northeast / Northwest Zone,,Boilermakers,33.26
+575,Ontario ,Northeast / Northwest Zone,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],29.93
+576,Ontario ,Northeast / Northwest Zone,,Reinforcing Ironworkers (rebar/rodman),32.22
+577,Ontario ,Northeast / Northwest Zone,,Carpenters,27.35
+578,Ontario ,Northeast / Northwest Zone,,Bricklayers,29.8
+579,Ontario ,Northeast / Northwest Zone,,Cement Finishers,23.23
+580,Ontario ,Northeast / Northwest Zone,,"Tilesetters (including terrazo, marble setters)",31.65
+581,Ontario ,Northeast / Northwest Zone,,Plasterers and Drywall Tapers,28.47
+582,Ontario ,Northeast / Northwest Zone,,"Drywall Installers, and Finishers and Lathers",29.95
+583,Ontario ,Northeast / Northwest Zone,,Interior System Mechanics (including Steel Stud),32.38
+584,Ontario ,Northeast / Northwest Zone,,Roofers,19.58
+585,Ontario ,Northeast / Northwest Zone,,Glaziers,29.2
+586,Ontario ,Northeast / Northwest Zone,,Insulators,30.76
+587,Ontario ,Northeast / Northwest Zone,,Painters,19.12
+588,Ontario ,Northeast / Northwest Zone,,Flooring Installers,30.22
+589,Ontario ,Northeast / Northwest Zone,,Construction Millwrights,32.82
+590,Ontario ,Northeast / Northwest Zone,,Heavy-Duty Equipment Mechanics,22.29
+591,Ontario ,Northeast / Northwest Zone,,Refrigeration and Air Conditioning Mechanics,33.19
+592,Ontario ,Northeast / Northwest Zone,,Elevator Constructors,43.53
+593,Ontario ,Northeast / Northwest Zone,,Mobile Crane Operators,31.9
+594,Ontario ,Northeast / Northwest Zone,,Tower Crane Operators,34.78
+595,Ontario ,Northeast / Northwest Zone,,Straight Truck Drivers,19.52
+596,Ontario ,Northeast / Northwest Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,19.59
+597,Ontario ,Northeast / Northwest Zone,,"Operators - Heavy Equipment (ex. Cranes, Graders)",22.27
+598,Ontario ,Northeast / Northwest Zone,,Grader Operators,22.62
+599,Ontario ,Northeast / Northwest Zone,,Asphalt Plant Operators,17.2
+600,Ontario ,Northeast / Northwest Zone,,Scraper Operators,29.16
+601,Ontario ,Northeast / Northwest Zone,,Packer (road-roller) Operators,17.95
+602,Ontario ,Northeast / Northwest Zone,,Pressure Vessel Welders,33.14
+603,Ontario ,Northeast / Northwest Zone,,Traffic Accommodation/Control Persons,13.73
+604,Ontario ,Northeast / Northwest Zone,,Labourers (Except Traffic Accommodation/Control Persons),18.68
+605,Ontario ,Kingston / Muskoka Zone,,Electricians,33.22
+606,Ontario ,Kingston / Muskoka Zone,,Plumbers,31.64
+607,Ontario ,Kingston / Muskoka Zone,,Sprinkler System Installers,36.14
+608,Ontario ,Kingston / Muskoka Zone,," Pipefitters, Steamfitters",31.28
+609,Ontario ,Kingston / Muskoka Zone,,Sheet Metal Workers,28.64
+610,Ontario ,Kingston / Muskoka Zone,,Boilermakers,33.26
+611,Ontario ,Kingston / Muskoka Zone,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],29.93
+612,Ontario ,Kingston / Muskoka Zone,,Reinforcing Ironworkers (rebar/rodman),32.37
+613,Ontario ,Kingston / Muskoka Zone,,Carpenters,21.01
+614,Ontario ,Kingston / Muskoka Zone,,Bricklayers,29.78
+615,Ontario ,Kingston / Muskoka Zone,,Cement Finishers,19.51
+616,Ontario ,Kingston / Muskoka Zone,,"Tilesetters (including terrazo, marble setters)",27.26
+617,Ontario ,Kingston / Muskoka Zone,,Plasterers and Drywall Tapers,31.33
+618,Ontario ,Kingston / Muskoka Zone,,"Drywall Installers, and Finishers and Lathers",29.04
+619,Ontario ,Kingston / Muskoka Zone,,Interior System Mechanics (including Steel Stud),28.78
+620,Ontario ,Kingston / Muskoka Zone,,Roofers,20.55
+621,Ontario ,Kingston / Muskoka Zone,,Glaziers,29.2
+622,Ontario ,Kingston / Muskoka Zone,,Insulators,30.63
+623,Ontario ,Kingston / Muskoka Zone,,Painters,23.34
+624,Ontario ,Kingston / Muskoka Zone,,Flooring Installers,30.22
+625,Ontario ,Kingston / Muskoka Zone,,Construction Millwrights,34.6
+626,Ontario ,Kingston / Muskoka Zone,,Heavy-Duty Equipment Mechanics,23.04
+627,Ontario ,Kingston / Muskoka Zone,,Refrigeration and Air Conditioning Mechanics,28.91
+628,Ontario ,Kingston / Muskoka Zone,,Elevator Constructors,43.53
+629,Ontario ,Kingston / Muskoka Zone,,Mobile Crane Operators,33.82
+630,Ontario ,Kingston / Muskoka Zone,,Tower Crane Operators,34.78
+631,Ontario ,Kingston / Muskoka Zone,,Straight Truck Drivers,18.62
+632,Ontario ,Kingston / Muskoka Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,19.21
+633,Ontario ,Kingston / Muskoka Zone,,"Operators - Heavy Equipment (ex. Cranes, Graders)",21.66
+634,Ontario ,Kingston / Muskoka Zone,,Grader Operators,23.84
+635,Ontario ,Kingston / Muskoka Zone,,Asphalt Plant Operators,21.93
+636,Ontario ,Kingston / Muskoka Zone,,Scraper Operators,29.16
+637,Ontario ,Kingston / Muskoka Zone,,Packer (road-roller) Operators,16.25
+638,Ontario ,Kingston / Muskoka Zone,,Pressure Vessel Welders,35.82
+639,Ontario ,Kingston / Muskoka Zone,,Traffic Accommodation/Control Persons,15.25
+640,Ontario ,Kingston / Muskoka Zone,,Labourers (Except Traffic Accommodation/Control Persons),17.45
+641,Ontario ,Ottawa Zone,,Electricians,33.19
+642,Ontario ,Ottawa Zone,,Plumbers,30.99
+643,Ontario ,Ottawa Zone,,Sprinkler System Installers,36.14
+644,Ontario ,Ottawa Zone,,"Pipefitters, Steamfitters",34.57
+645,Ontario ,Ottawa Zone,,Sheet Metal Workers,31.06
+646,Ontario ,Ottawa Zone,,Boilermakers,33.26
+647,Ontario ,Ottawa Zone,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],30.17
+648,Ontario ,Ottawa Zone,,Reinforcing Ironworkers (rebar/rodman),29.5
+649,Ontario ,Ottawa Zone,,Carpenters,24.43
+650,Ontario ,Ottawa Zone,,Bricklayers,32.15
+651,Ontario ,Ottawa Zone,,Cement Finishers,26.98
+652,Ontario ,Ottawa Zone,,"Tilesetters (including terrazo, marble setters)",31.65
+653,Ontario ,Ottawa Zone,,Plasterers and Drywall Tapers,29.19
+654,Ontario ,Ottawa Zone,,"Drywall Installers, Finishers and Lathers",31.67
+655,Ontario ,Ottawa Zone,,Interior System Mechanics (including Steel Stud),32.38
+656,Ontario ,Ottawa Zone,,Roofers,21.5
+657,Ontario ,Ottawa Zone,,Glaziers,29.2
+658,Ontario ,Ottawa Zone,,Insulators,32.35
+659,Ontario ,Ottawa Zone,,Painters,18.44
+660,Ontario ,Ottawa Zone,,Flooring Installers,30.22
+661,Ontario ,Ottawa Zone,,Construction Millwrights,34.6
+662,Ontario ,Ottawa Zone,,Heavy-Duty Equipment Mechanics,23.29
+663,Ontario ,Ottawa Zone,,Refrigeration and Air Conditioning Mechanics,36.65
+664,Ontario ,Ottawa Zone,,Elevator Constructors,43.53
+665,Ontario ,Ottawa Zone,,Mobile Crane Operators,33.82
+666,Ontario ,Ottawa Zone,,Tower Crane Operators,34.78
+667,Ontario ,Ottawa Zone,,Straight Truck Drivers,19.45
+668,Ontario ,Ottawa Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,19.57
+669,Ontario ,Ottawa Zone,,"Operators - Heavy Equipment (ex. Cranes, Graders)",22.1
+670,Ontario ,Ottawa Zone,,Grader Operators,27.47
+671,Ontario ,Ottawa Zone,,Asphalt Plant Operators,22.01
+672,Ontario ,Ottawa Zone,,Scraper Operators,29.16
+673,Ontario ,Ottawa Zone,,Packer (road-roller) Operators,18.06
+674,Ontario ,Ottawa Zone,,Pressure Vessel Welders,33.61
+675,Ontario ,Ottawa Zone,,Traffic Accommodation/Control Persons,15.54
+676,Ontario ,Ottawa Zone,,Labourers (Except Traffic Accommodation/Control Persons),19.29
+677,Ontario ,Toronto Zone,,Electricians,35.19
+678,Ontario ,Toronto Zone,,Plumbers,36.84
+679,Ontario ,Toronto Zone,,Sprinkler System Installers,36.99
+680,Ontario ,Toronto Zone,,"Pipefitters, Steamfitters",21.56
+681,Ontario ,Toronto Zone,,Sheet Metal Workers,32.0
+682,Ontario ,Toronto Zone,,Boilermakers,33.26
+683,Ontario ,Toronto Zone,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],31.82
+684,Ontario ,Toronto Zone,,Reinforcing Ironworkers (rebar/rodman),32.77
+685,Ontario ,Toronto Zone,,Carpenters,28.42
+686,Ontario ,Toronto Zone,,Bricklayers,33.84
+687,Ontario ,Toronto Zone,,Cement Finishers,31.37
+688,Ontario ,Toronto Zone,,"Tilesetters (including terrazo, marble setters)",33.05
+689,Ontario ,Toronto Zone,,Plasterers and Drywall Tapers,34.34
+690,Ontario ,Toronto Zone,,"Drywall Installers, Finishers and Lathers",33.4
+691,Ontario ,Toronto Zone,,Interior System Mechanics (including Steel Stud),33.38
+692,Ontario ,Toronto Zone,,Roofers,21.23
+693,Ontario ,Toronto Zone,,Glaziers,32.02
+694,Ontario ,Toronto Zone,,Insulators,32.77
+695,Ontario ,Toronto Zone,,Painters,23.34
+696,Ontario ,Toronto Zone,,Flooring Installers,30.22
+697,Ontario ,Toronto Zone,,Construction Millwrights,37.46
+698,Ontario ,Toronto Zone,,Heavy-Duty Equipment Mechanics,28.76
+699,Ontario ,Toronto Zone,,Refrigeration and Air Conditioning Mechanics,37.46
+700,Ontario ,Toronto Zone,,Elevator Constructors,43.53
+701,Ontario ,Toronto Zone,,Mobile Crane Operators,35.3
+702,Ontario ,Toronto Zone,,Tower Crane Operators,36.62
+703,Ontario ,Toronto Zone,,Straight Truck Drivers,26.22
+704,Ontario ,Toronto Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,26.91
+705,Ontario ,Toronto Zone,,"Operators - Heavy Equipment (ex. Cranes, Graders)",31.18
+706,Ontario ,Toronto Zone,,Grader Operators,31.17
+707,Ontario ,Toronto Zone,,Asphalt Plant Operators,29.36
+708,Ontario ,Toronto Zone,,Scraper Operators,31.37
+709,Ontario ,Toronto Zone,,Packer (road-roller) Operators,29.09
+710,Ontario ,Toronto Zone,,Pressure Vessel Welders,35.63
+711,Ontario ,Toronto Zone,,Traffic Accommodation/Control Persons,23.79
+712,Ontario ,Toronto Zone,,Labourers (Except Traffic Accommodation/Control Persons),27.04
+713,Ontario ,Kitchener-Waterloo-Barrie,,Electricians,28.79
+714,Ontario ,Kitchener-Waterloo-Barrie,,Plumbers,32.87
+715,Ontario ,Kitchener-Waterloo-Barrie,,Sprinkler System Installers,36.14
+716,Ontario ,Kitchener-Waterloo-Barrie,," Pipefitters, Steamfitters",34.6
+717,Ontario ,Kitchener-Waterloo-Barrie,,Sheet Metal Workers,30.48
+718,Ontario ,Kitchener-Waterloo-Barrie,,Boilermakers,33.26
+719,Ontario ,Kitchener-Waterloo-Barrie,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],29.93
+720,Ontario ,Kitchener-Waterloo-Barrie,,Reinforcing Ironworkers (rebar/rodman),33.08
+721,Ontario ,Kitchener-Waterloo-Barrie,,Carpenters,26.54
+722,Ontario ,Kitchener-Waterloo-Barrie,,Bricklayers,32.69
+723,Ontario ,Kitchener-Waterloo-Barrie,,Cement Finishers,24.07
+724,Ontario ,Kitchener-Waterloo-Barrie,,"Tilesetters (including terrazo, marble setters)",31.65
+725,Ontario ,Kitchener-Waterloo-Barrie,,Plasterers and Drywall Tapers,29.56
+726,Ontario ,Kitchener-Waterloo-Barrie,,"Drywall Installers, Finishers and Lathers",32.26
+727,Ontario ,Kitchener-Waterloo-Barrie,,Interior System Mechanics (including Steel Stud),32.38
+728,Ontario ,Kitchener-Waterloo-Barrie,,Roofers,21.23
+729,Ontario ,Kitchener-Waterloo-Barrie,,Glaziers,29.2
+730,Ontario ,Kitchener-Waterloo-Barrie,,Insulators,32.35
+731,Ontario ,Kitchener-Waterloo-Barrie,,Painters,23.34
+732,Ontario ,Kitchener-Waterloo-Barrie,,Flooring Installers,30.22
+733,Ontario ,Kitchener-Waterloo-Barrie,,Construction Millwrights,34.6
+734,Ontario ,Kitchener-Waterloo-Barrie,,Heavy-Duty Equipment Mechanics,29.64
+735,Ontario ,Kitchener-Waterloo-Barrie,,Refrigeration and Air Conditioning Mechanics,36.14
+736,Ontario ,Kitchener-Waterloo-Barrie,,Elevator Constructors,43.53
+737,Ontario ,Kitchener-Waterloo-Barrie,,Mobile Crane Operators,33.82
+738,Ontario ,Kitchener-Waterloo-Barrie,,Tower Crane Operators,34.78
+739,Ontario ,Kitchener-Waterloo-Barrie,,Straight Truck Drivers,20.1
+740,Ontario ,Kitchener-Waterloo-Barrie,,Road Tractor Drivers for Semi-Trailers and Trailers,23.52
+741,Ontario ,Kitchener-Waterloo-Barrie,,"Operators - Heavy Equipment (ex. Cranes, Graders)",24.34
+742,Ontario ,Kitchener-Waterloo-Barrie,,Grader Operators,27.47
+743,Ontario ,Kitchener-Waterloo-Barrie,,Asphalt Plant Operators,24.13
+744,Ontario ,Kitchener-Waterloo-Barrie,,Scraper Operators,29.16
+745,Ontario ,Kitchener-Waterloo-Barrie,,Packer (road-roller) Operators,20.18
+746,Ontario ,Kitchener-Waterloo-Barrie,,Pressure Vessel Welders,31.72
+747,Ontario ,Kitchener-Waterloo-Barrie,,Traffic Accommodation/Control Persons,16.95
+748,Ontario ,Kitchener-Waterloo-Barrie,,Labourers (Except Traffic Accommodation/Control Persons),19.94
+749,Ontario ,Hamilton-Niagara Peninsula Zone,,Electricians,32.81
+750,Ontario ,Hamilton-Niagara Peninsula Zone,,Plumbers,33.29
+751,Ontario ,Hamilton-Niagara Peninsula Zone,,Sprinkler System Installers,36.14
+752,Ontario ,Hamilton-Niagara Peninsula Zone,," Pipefitters, Steamfitters",32.52
+753,Ontario ,Hamilton-Niagara Peninsula Zone,,Sheet Metal Workers,35.26
+754,Ontario ,Hamilton-Niagara Peninsula Zone,,Boilermakers,33.26
+755,Ontario ,Hamilton-Niagara Peninsula Zone,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],29.93
+756,Ontario ,Hamilton-Niagara Peninsula Zone,,Reinforcing Ironworkers (rebar/rodman),34.17
+757,Ontario ,Hamilton-Niagara Peninsula Zone,,Carpenters,25.95
+758,Ontario ,Hamilton-Niagara Peninsula Zone,,Bricklayers,32.3
+759,Ontario ,Hamilton-Niagara Peninsula Zone,,Cement Finishers,25.01
+760,Ontario ,Hamilton-Niagara Peninsula Zone,,"Tilesetters (including terrazo, marble setters)",31.65
+761,Ontario ,Hamilton-Niagara Peninsula Zone,,"Plasterers, and Drywall Tapers",31.33
+762,Ontario ,Hamilton-Niagara Peninsula Zone,,"Drywall Installers, Finishers and Lathers",32.15
+763,Ontario ,Hamilton-Niagara Peninsula Zone,,Interior System Mechanics (including Steel Stud),32.38
+764,Ontario ,Hamilton-Niagara Peninsula Zone,,Roofers,21.23
+765,Ontario ,Hamilton-Niagara Peninsula Zone,,Glaziers,32.95
+766,Ontario ,Hamilton-Niagara Peninsula Zone,,Insulators,32.35
+767,Ontario ,Hamilton-Niagara Peninsula Zone,,Painters,23.34
+768,Ontario ,Hamilton-Niagara Peninsula Zone,,Flooring Installers,30.22
+769,Ontario ,Hamilton-Niagara Peninsula Zone,,Construction Millwrights,34.6
+770,Ontario ,Hamilton-Niagara Peninsula Zone,,Heavy-Duty Equipment Mechanics,32.21
+771,Ontario ,Hamilton-Niagara Peninsula Zone,,Refrigeration and Air Conditioning Mechanics,30.62
+772,Ontario ,Hamilton-Niagara Peninsula Zone,,Elevator Constructors,43.53
+773,Ontario ,Hamilton-Niagara Peninsula Zone,,Mobile Crane Operators,33.82
+774,Ontario ,Hamilton-Niagara Peninsula Zone,,Tower Crane Operators,34.78
+775,Ontario ,Hamilton-Niagara Peninsula Zone,,Straight Truck Drivers,23.24
+776,Ontario ,Hamilton-Niagara Peninsula Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,27.26
+777,Ontario ,Hamilton-Niagara Peninsula Zone,,"Operators - Heavy Equipment (ex. Cranes, Graders)",25.87
+778,Ontario ,Hamilton-Niagara Peninsula Zone,,Grader Operators,29.34
+779,Ontario ,Hamilton-Niagara Peninsula Zone,,Asphalt Plant Operators,24.13
+780,Ontario ,Hamilton-Niagara Peninsula Zone,,Scraper Operators,29.16
+781,Ontario ,Hamilton-Niagara Peninsula Zone,,Packer (road-roller) Operators,24.47
+782,Ontario ,Hamilton-Niagara Peninsula Zone,,Pressure Vessel Welders,33.03
+783,Ontario ,Hamilton-Niagara Peninsula Zone,,Traffic Accommodation/Control Persons,17.34
+784,Ontario ,Hamilton-Niagara Peninsula Zone,,Labourers (Except Traffic Accommodation/Control Persons),23.73
+785,Ontario ,London / Stratford Zone,,Electricians,30.71
+786,Ontario ,London / Stratford Zone,,Plumbers,32.46
+787,Ontario ,London / Stratford Zone,,Sprinkler System Installers,36.14
+788,Ontario ,London / Stratford Zone,," Pipefitters, Steamfitters",34.62
+789,Ontario ,London / Stratford Zone,,Sheet Metal Workers,24.17
+790,Ontario ,London / Stratford Zone,,Boilermakers,33.26
+791,Ontario ,London / Stratford Zone,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],26.46
+792,Ontario ,London / Stratford Zone,,Reinforcing Ironworkers (rebar/rodman),27.89
+793,Ontario ,London / Stratford Zone,,Carpenters,26.09
+794,Ontario ,London / Stratford Zone,,Bricklayers,25.3
+795,Ontario ,London / Stratford Zone,,Cement Finishers,24.58
+796,Ontario ,London / Stratford Zone,,"Tilesetters (including terrazo, marble setters)",31.65
+797,Ontario ,London / Stratford Zone,,Plasterers and Drywall Tapers,31.33
+798,Ontario ,London / Stratford Zone,,Drywall Installers and Finishers and Lathers,25.51
+799,Ontario ,London / Stratford Zone,,Interior System Mechanics (including Steel Stud),24.8
+800,Ontario ,London / Stratford Zone,,Roofers,19.85
+801,Ontario ,London / Stratford Zone,,Glaziers,29.2
+802,Ontario ,London / Stratford Zone,,Insulators,30.4
+803,Ontario ,London / Stratford Zone,,Painters,16.3
+804,Ontario ,London / Stratford Zone,,Flooring Installers,23.02
+805,Ontario ,London / Stratford Zone,,Construction Millwrights,34.6
+806,Ontario ,London / Stratford Zone,,Heavy-Duty Equipment Mechanics,24.97
+807,Ontario ,London / Stratford Zone,,Refrigeration and Air Conditioning Mechanics,33.79
+808,Ontario ,London / Stratford Zone,,Elevator Constructors,43.53
+809,Ontario ,London / Stratford Zone,,Mobile Crane Operators,33.82
+810,Ontario ,London / Stratford Zone,,Tower Crane Operators,34.78
+811,Ontario ,London / Stratford Zone,,Straight Truck Drivers,19.87
+812,Ontario ,London / Stratford Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,21.07
+813,Ontario ,London / Stratford Zone,,"Operators - Heavy Equipment (ex. Cranes, Graders)",23.78
+814,Ontario ,London / Stratford Zone,,Grader Operators,25.06
+815,Ontario ,London / Stratford Zone,,Asphalt Plant Operators,21.53
+816,Ontario ,London / Stratford Zone,,Scraper Operators,24.17
+817,Ontario ,London / Stratford Zone,,Packer (road-roller) Operators,22.14
+818,Ontario ,London / Stratford Zone,,Pressure Vessel Welders,33.03
+819,Ontario ,London / Stratford Zone,,Traffic Accommodation/Control Persons,20.94
+820,Ontario ,London / Stratford Zone,,Labourers (Except Traffic Accommodation/Control Persons),20.68
+821,Ontario ,Windsor-Sarnia Zone,,Electricians,35.64
+822,Ontario ,Windsor-Sarnia Zone,,Plumbers,30.28
+823,Ontario ,Windsor-Sarnia Zone,,Sprinkler System Installers,36.14
+824,Ontario ,Windsor-Sarnia Zone,," Pipefitters, Steamfitters",32.52
+825,Ontario ,Windsor-Sarnia Zone,,Sheet Metal Workers,28.07
+826,Ontario ,Windsor-Sarnia Zone,,Boilermakers,33.26
+827,Ontario ,Windsor-Sarnia Zone,,Ironworkers [except Reinforcing Ironworker (Rebar/Rodman)],29.44
+828,Ontario ,Windsor-Sarnia Zone,,Reinforcing Ironworkers (rebar/rodman),32.26
+829,Ontario ,Windsor-Sarnia Zone,,Carpenters,27.82
+830,Ontario ,Windsor-Sarnia Zone,,Bricklayers,33.53
+831,Ontario ,Windsor-Sarnia Zone,,Cement Finishers,26.47
+832,Ontario ,Windsor-Sarnia Zone,,"Tilesetters (including terrazo, marble setters)",31.65
+833,Ontario ,Windsor-Sarnia Zone,,Plasterers and Drywall Tapers,31.33
+834,Ontario ,Windsor-Sarnia Zone,,"Drywall Installers, and Finishers and Lathers",32.26
+835,Ontario ,Windsor-Sarnia Zone,,Interior System Mechanics (including Steel Stud),32.38
+836,Ontario ,Windsor-Sarnia Zone,,Roofers,17.35
+837,Ontario ,Windsor-Sarnia Zone,,Glaziers,29.2
+838,Ontario ,Windsor-Sarnia Zone,,Insulators,33.56
+839,Ontario ,Windsor-Sarnia Zone,,Painters,25.16
+840,Ontario ,Windsor-Sarnia Zone,,Flooring Installers,30.22
+841,Ontario ,Windsor-Sarnia Zone,,Construction Millwrights,34.6
+842,Ontario ,Windsor-Sarnia Zone,,Heavy-Duty Equipment Mechanics,24.22
+843,Ontario ,Windsor-Sarnia Zone,,Refrigeration and Air Conditioning Mechanics,30.62
+844,Ontario ,Windsor-Sarnia Zone,,Elevator Constructors,43.53
+845,Ontario ,Windsor-Sarnia Zone,,Mobile Crane Operators,33.82
+846,Ontario ,Windsor-Sarnia Zone,,Tower Crane Operators,34.78
+847,Ontario ,Windsor-Sarnia Zone,,Straight Truck Drivers,18.63
+848,Ontario ,Windsor-Sarnia Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,22.3
+849,Ontario ,Windsor-Sarnia Zone,,"Operators - Heavy Equipment (ex. Cranes, Graders)",28.63
+850,Ontario ,Windsor-Sarnia Zone,,Grader Operators,27.47
+851,Ontario ,Windsor-Sarnia Zone,,Asphalt Plant Operators,24.13
+852,Ontario ,Windsor-Sarnia Zone,,Scraper Operators,29.16
+853,Ontario ,Windsor-Sarnia Zone,,Packer (road-roller) Operators,26.45
+854,Ontario ,Windsor-Sarnia Zone,,Pressure Vessel Welders,27.31
+855,Ontario ,Windsor-Sarnia Zone,,Traffic Accommodation/Control Persons,19.05
+856,Ontario ,Windsor-Sarnia Zone,,Labourers (Except Traffic Accommodation/Control Persons),22.6
+857,Saskatchewan,Regina/Saskatoon Zone,,Electricians,27.33
+858,Saskatchewan,Regina/Saskatoon Zone,,Plumbers,26.09
+859,Saskatchewan,Regina/Saskatoon Zone,,"Pipefitters, Steamfitters",27.87
+860,Saskatchewan,Regina/Saskatoon Zone,,Sheet Metal Workers,24.87
+861,Saskatchewan,Regina/Saskatoon Zone,,Ironworkers (except reinforcing ironworkers (rebar/rodman)),28.68
+862,Saskatchewan,Regina/Saskatoon Zone,,Reinforcing Ironworkers (Rebar/rodman),21.83
+863,Saskatchewan,Regina/Saskatoon Zone,,Carpenters,22.79
+864,Saskatchewan,Regina/Saskatoon Zone,,Bricklayers (except refractory bricklayers),26.62
+865,Saskatchewan,Regina/Saskatoon Zone,,Concrete Finishers,17.94
+866,Saskatchewan,Regina/Saskatoon Zone,,"Tilesetters (including terrazo, marble setters)",19.04
+867,Saskatchewan,Regina/Saskatoon Zone,,"Drywall Installers, Finishers",19.25
+868,Saskatchewan,Regina/Saskatoon Zone,,Interior System Mechanics (including steel stud),20.77
+869,Saskatchewan,Regina/Saskatoon Zone,,Roofers,17.01
+870,Saskatchewan,Regina/Saskatoon Zone,,Glaziers,18.3
+871,Saskatchewan,Regina/Saskatoon Zone,,Insulators,17.47
+872,Saskatchewan,Regina/Saskatoon Zone,,Painters,16.89
+873,Saskatchewan,Regina/Saskatoon Zone,,Heavy-Duty Equipment Mechanics,22.95
+874,Saskatchewan,Regina/Saskatoon Zone,,Refrigeration and Air Conditioning Mechanics,29.62
+875,Saskatchewan,Regina/Saskatoon Zone,,Mobile Crane Operators,30.93
+876,Saskatchewan,Regina/Saskatoon Zone,,Straight Truck Drivers,17.91
+877,Saskatchewan,Regina/Saskatoon Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,19.48
+878,Saskatchewan,Regina/Saskatoon Zone,,"Heavy Equipment Operators (except cranes, graders and asphalt plant operators)",21.86
+879,Saskatchewan,Regina/Saskatoon Zone,,Grader Operators,20.56
+880,Saskatchewan,Regina/Saskatoon Zone,,Asphalt Plant Operators,18.55
+881,Saskatchewan,Regina/Saskatoon Zone,,General Welder – Canadian Welders' Bureau,25.44
+882,Saskatchewan,Regina/Saskatoon Zone,,Traffic Accommodation Person (flagperson),12.37
+883,Saskatchewan,Regina/Saskatoon Zone,,Form Setters,19.35
+884,Saskatchewan,Regina/Saskatoon Zone,,Asphalt Layers (by hand – includes rakers),18.06
+885,Saskatchewan,Regina/Saskatoon Zone,,"Trade Helpers, Labourers (except asphalt layers and scaffold erectors)",13.72
+886,Saskatchewan,Regina/Saskatoon Zone,,Scaffold Erectors,20.12
+887,Saskatchewan,North/Southwest Zone,,Electricians,27.03
+888,Saskatchewan,North/Southwest Zone,,Plumbers,23.36
+889,Saskatchewan,North/Southwest Zone,,"Pipefitters, Steamfitters",27.52
+890,Saskatchewan,North/Southwest Zone,,Sheet Metal Workers,24.36
+891,Saskatchewan,North/Southwest Zone,,Ironworkers (except reinforcing ironworkers (rebar/rodman)),28.68
+892,Saskatchewan,North/Southwest Zone,,Reinforcing Ironworkers (rebar/rodman),21.94
+893,Saskatchewan,North/Southwest Zone,,Carpenters,22.18
+894,Saskatchewan,North/Southwest Zone,,Bricklayers (except refractory bricklayers),26.62
+895,Saskatchewan,North/Southwest Zone,,Concrete Finishers,19.98
+896,Saskatchewan,North/Southwest Zone,,"Tilesetters (including terrazo, marble setters)",18.96
+897,Saskatchewan,North/Southwest Zone,,"Drywall Installers, Finishers",21.17
+898,Saskatchewan,North/Southwest Zone,,Interior System Mechanics (including steel stud),21.01
+899,Saskatchewan,North/Southwest Zone,,Roofers,17.11
+900,Saskatchewan,North/Southwest Zone,,Glaziers,18.3
+901,Saskatchewan,North/Southwest Zone,,Insulators,17.64
+902,Saskatchewan,North/Southwest Zone,,Painters,20.06
+903,Saskatchewan,North/Southwest Zone,,Heavy-Duty Equipment Mechanics,23.15
+904,Saskatchewan,North/Southwest Zone,,Refrigeration and Air Conditioning Mechanics,23.57
+905,Saskatchewan,North/Southwest Zone,,Mobile Crane Operators,31.44
+906,Saskatchewan,North/Southwest Zone,,Straight Truck Drivers,16.1
+907,Saskatchewan,North/Southwest Zone,,Road Tractor Drivers for Semi-Trailers and Trailers,17.35
+908,Saskatchewan,North/Southwest Zone,,"Heavy Equipment Operators (except cranes, graders and asphalt plant operators)",19.06
+909,Saskatchewan,North/Southwest Zone,,Grader Operators,20.93
+910,Saskatchewan,North/Southwest Zone,,Asphalt Plant Operators,17.05
+911,Saskatchewan,North/Southwest Zone,,General Welder – Canadian Welders' Bureau,26.0
+912,Saskatchewan,North/Southwest Zone,,Traffic Accommodation Person (flagperson),12.57
+913,Saskatchewan,North/Southwest Zone,,Form Setters,19.44
+914,Saskatchewan,North/Southwest Zone,,Asphalt Layers (by hand – includes rakers),16.95
+915,Saskatchewan,North/Southwest Zone,,"Trade Helpers, Labourers (except asphalt layers and scaffold erectors)",15.4
+916,Saskatchewan,North/Southwest Zone,,Scaffold Erectors,20.12
+917,Newfoundland and Labrador,"Central, West and Labrador Zone",,Electricians,20.4
+918,Newfoundland and Labrador,"Central, West and Labrador Zone",,Plumbers,19.45
+919,Newfoundland and Labrador,"Central, West and Labrador Zone",,"Pipefitters, Steamfitters",16.31
+920,Newfoundland and Labrador,"Central, West and Labrador Zone",,Sheet Metal Workers,20.39
+921,Newfoundland and Labrador,"Central, West and Labrador Zone",,Ironworkers,19.06
+922,Newfoundland and Labrador,"Central, West and Labrador Zone",,Carpenters,15.06
+923,Newfoundland and Labrador,"Central, West and Labrador Zone",,Bricklayers,19.47
+924,Newfoundland and Labrador,"Central, West and Labrador Zone",,Cement Finishers,14.29
+925,Newfoundland and Labrador,"Central, West and Labrador Zone",,Roofers,15.02
+926,Newfoundland and Labrador,"Central, West and Labrador Zone",,Painters,14.25
+927,Newfoundland and Labrador,"Central, West and Labrador Zone",,Flooring Installer,16.67
+928,Newfoundland and Labrador,"Central, West and Labrador Zone",,Heavy-Duty Equipment Mechanics,15.96
+929,Newfoundland and Labrador,"Central, West and Labrador Zone",,Refrigeration and Air Conditioning Mechanics,21.59
+930,Newfoundland and Labrador,"Central, West and Labrador Zone",,Mobile Crane Operators,18.47
+931,Newfoundland and Labrador,"Central, West and Labrador Zone",,Truck Drivers,14.44
+932,Newfoundland and Labrador,"Central, West and Labrador Zone",,"Operators Heavy Equipment (ex. Cranes, Graders, Asphalt Paving)",15.7
+933,Newfoundland and Labrador,"Central, West and Labrador Zone",,Grader Operators,15.77
+934,Newfoundland and Labrador,"Central, West and Labrador Zone",,Paver and Asphalt Plant Operators,16.88
+935,Newfoundland and Labrador,"Central, West and Labrador Zone",,Traffic Accommodation Person (Flag Person),9.32
+936,Newfoundland and Labrador,"Central, West and Labrador Zone",,"Trade Helpers, Labourers (ex. Asphalt Layers, Flag persons, Form setter)",12.18
+937,Newfoundland and Labrador,"Central, West and Labrador Zone",,Powder Person and Driller,14.77
+938,Newfoundland and Labrador,Avalon Zone (St. John's),,Electricians,22.59
+939,Newfoundland and Labrador,Avalon Zone (St. John's),,Plumbers,21.24
+940,Newfoundland and Labrador,Avalon Zone (St. John's),,"Pipefitters, Steamfitters",25.64
+941,Newfoundland and Labrador,Avalon Zone (St. John's),,Sheet Metal Workers,21.45
+942,Newfoundland and Labrador,Avalon Zone (St. John's),,Ironworkers,19.14
+943,Newfoundland and Labrador,Avalon Zone (St. John's),,Carpenters,16.44
+944,Newfoundland and Labrador,Avalon Zone (St. John's),,Bricklayers,19.47
+945,Newfoundland and Labrador,Avalon Zone (St. John's),,Cement Finishers,16.72
+946,Newfoundland and Labrador,Avalon Zone (St. John's),,"Tilesetters (including terrazo, marble setters)",16.99
+947,Newfoundland and Labrador,Avalon Zone (St. John's),,"Plasterers, Drywall Installers and Finishers and Lathers",16.38
+948,Newfoundland and Labrador,Avalon Zone (St. John's),,Roofers,15.0
+949,Newfoundland and Labrador,Avalon Zone (St. John's),,Painters,14.84
+950,Newfoundland and Labrador,Avalon Zone (St. John's),,Flooring Installer,16.39
+951,Newfoundland and Labrador,Avalon Zone (St. John's),,Heavy-Duty Equipment Mechanics,16.49
+952,Newfoundland and Labrador,Avalon Zone (St. John's),,Insulator,15.27
+953,Newfoundland and Labrador,Avalon Zone (St. John's),,Refrigeration and Air Conditioning Mechanics,23.02
+954,Newfoundland and Labrador,Avalon Zone (St. John's),,Mobile Crane Operators,19.8
+955,Newfoundland and Labrador,Avalon Zone (St. John's),,Truck Drivers,14.41
+956,Newfoundland and Labrador,Avalon Zone (St. John's),,"Operators Heavy Equipment (ex. Cranes, Graders, Asphalt Paving)",16.18
+957,Newfoundland and Labrador,Avalon Zone (St. John's),,Grader Operators,17.03
+958,Newfoundland and Labrador,Avalon Zone (St. John's),,Paver and Asphalt Plant Operators,17.1
+959,Newfoundland and Labrador,Avalon Zone (St. John's),,Pressure Vessel Welder,21.66
+960,Newfoundland and Labrador,Avalon Zone (St. John's),,Traffic Accommodation Person (Flag Person),9.27
+961,Newfoundland and Labrador,Avalon Zone (St. John's),,"Trade Helpers, Labourers (ex. Asphalt Layers, Flag persons, Form setter)",12.81
+962,Northwest Territories,,,Electricians,34.1
+963,Northwest Territories,,,Plumbers,32.9
+964,Northwest Territories,,,Carpenters,27.9
+965,Northwest Territories,,,General Welder (Canadian Welders Bureau),32.7
+966,Northwest Territories,,,"Plasterers, Drywall Installers, Finishers and Lathers",27.2
+967,Northwest Territories,,,Painters,24.9
+968,Northwest Territories,,,Heavy Equipment Mechanics,35.3
+969,Northwest Territories,,,Truck Drivers,26.0
+970,Northwest Territories,,,"Heavy Equipment Operators (excluding Cranes, Graders and Asphalt and Paving Machines)",28.2
+971,Northwest Territories,,,"Helpers, Labourers (excluding Traffic Accommodation Persons)",18.9
+972,Yukon,,Category A Class,Boilermakers (erection and repair),30.61
+973,Yukon,,Category A Class,Bricklayers and Stone Masons,30.61
+974,Yukon,,Category A Class,Carpenters,30.61
+975,Yukon,,Category A Class,"Crane Operators (overhead, climbing, skyway or equivalent)",30.61
+976,Yukon,,Category A Class,Divers,30.61
+977,Yukon,,Category A Class,Electricians,30.61
+978,Yukon,,Category A Class,Elevator Mechanics,30.61
+979,Yukon,,Category A Class,Glass and Metal Installers,30.61
+980,Yukon,,Category A Class,"Head Cook, Camp (camp size over 100 persons)",30.61
+981,Yukon,,Category A Class,Heavy-Duty Equipment Mechanics,30.61
+982,Yukon,,Category A Class,"Heavy Equipment Operators (dragline, gradall, pile driver, shovel, mobile crane)",30.61
+983,Yukon,,Category A Class,"Interior Systems Mechanics (metal framing and walls, drywall application, drywall contact and suspended ceilings, acoustical and metal linear ceiling, demountable partition, shaft wall and access floor systems, plenum barriers, fireproofing and plasters)",30.61
+984,Yukon,,Category A Class,Linespersons (electric),30.61
+985,Yukon,,Category A Class,Mechanical Systems Insulators,30.61
+986,Yukon,,Category A Class,Millwrights,30.61
+987,Yukon,,Category A Class,"Plumbers, Steamfitters and Welders (pipe)",30.61
+988,Yukon,,Category A Class,Refrigeration Mechanics,30.61
+989,Yukon,,Category A Class,Sheet Metal Mechanics,30.61
+990,Yukon,,Category A Class,Sprinkler System Installers,30.61
+991,Yukon,,Category A Class,Structural Steel Erectors (includes reinforcing ironwork),30.61
+992,Yukon,,Category A Class,Surveyors,30.61
+993,Yukon,,Category A Class,Tilesetters,30.61
+994,Yukon,,Category A Class,Welders - General (acetylene and electric),30.61
+995,Yukon,,Category B Class,Asphalt or Concrete Spreader Operators,27.44
+996,Yukon,,Category B Class,Batchpersons (operator of asphalt or concrete plant),27.44
+997,Yukon,,Category B Class,Blasters,27.44
+998,Yukon,,Category B Class,Cement Finishers,27.44
+999,Yukon,,Category B Class,Compressor Operators,27.44
+1000,Yukon,,Category B Class,Concrete Mixer Operators,27.44
+1001,Yukon,,Category B Class,Drillers,27.44
+1002,Yukon,,Category B Class,Float Drivers,27.44
+1003,Yukon,,Category B Class,Floor Covering Installers (includes carpet and resilient tile),27.44
+1004,Yukon,,Category B Class,"Head Cook, Camp (camp size 1 to 100 persons)",27.44
+1005,Yukon,,Category B Class,"Heavy Equipment Operators (rubber tire backhoe, tracked backhoe, bulldozer, front end loaders, graders, scrapers or equivalent)",27.44
+1006,Yukon,,Category B Class,Heavy Equipment Servicer,27.44
+1007,Yukon,,Category B Class,Hoist Operators,27.44
+1008,Yukon,,Category B Class,Ornamental and Miscellaneous Metal Erectors,27.44
+1009,Yukon,,Category B Class,Painters and Paper Hangers,27.44
+1010,Yukon,,Category B Class,Pipelayers,27.44
+1011,Yukon,,Category B Class,Roofers,27.44
+1012,Yukon,,Category B Class,Truck Drivers (heavy - 10 ton G.V.W. and up),27.44
+1013,Yukon,,Category C Class,Blaster's Helpers,24.34
+1014,Yukon,,Category C Class,"Concrete Floatpersons (puddleperson, screedperson)",24.34
+1015,Yukon,,Category C Class,"Second Cook/Baker, Camp",24.34
+1016,Yukon,,Category C Class,Surveyor's Helpers,24.34
+1017,Yukon,,Category C Class,Truck Drivers (G.V.W. - 3 to 10 Tons),24.34
+1018,Yukon,,Category D Class,Asphalt Rakers,22.09
+1019,Yukon,,Category D Class,Camp/Kitchen Helpers,22.09
+1020,Yukon,,Category D Class,Driller's Helpers,22.09
+1021,Yukon,,Category D Class,First Aid Attendants,22.09
+1022,Yukon,,Category D Class,Flagpersons,22.09
+1023,Yukon,,Category D Class,Jackhammer Operators,22.09
+1024,Yukon,,Category D Class,Labourers,22.09
+1025,Yukon,,Category D Class,Mortar Persons,22.09
+1026,Yukon,,Category D Class,Pump Tenders,22.09
+1027,Yukon,,Category D Class,"Roller Operators (roller, packer or compactor)",22.09
+1028,Yukon,,Category D Class,Roofer's Helpers,22.09
+1029,Yukon,,Category D Class,Watchpersons or Security Guards,22.09
